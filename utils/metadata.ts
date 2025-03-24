@@ -6,17 +6,17 @@ export function createMetadata(override: Metadata): Metadata {
     openGraph: {
       title: override.title ?? undefined,
       description: override.description ?? undefined,
-      url: 'https://fumadocs.vercel.app',
-      images: '/banner.png',
-      siteName: 'Nextify',
+      url: 'https://hackathonweekly.com',
+      images: '/images/logo.png',
+      siteName: 'HackathonWeekly',
       ...override.openGraph,
     },
     twitter: {
       card: 'summary_large_image',
-      creator: '@Official_R_deep',
+      creator: '@HackathonWeekly',
       title: override.title ?? undefined,
       description: override.description ?? undefined,
-      images: '/banner.png',
+      images: '/images/logo.png',
       ...override.twitter,
     },
   };
@@ -25,4 +25,4 @@ export function createMetadata(override: Metadata): Metadata {
 export const baseUrl =
   process.env.NODE_ENV === 'development'
     ? new URL('http://localhost:3000')
-    : new URL(`https://${process.env.VERCEL_URL!}`);
+    : new URL('https://hackathonweekly.com');

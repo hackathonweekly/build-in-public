@@ -18,10 +18,10 @@ export function Navigation() {
   const links: NavLink[] = [
     { url: "/", text: nav('home') },
     { url: "/docs", text: nav('documentation') },
-    { url: "/blog", text: nav('blog') },
-    { url: "/page/about", text: nav('about') },
-    { url: "/page/changelog", text: nav('changelog') },
-    { url: "https://twitter.com/Official_R_deep", text: "Twitter", type: 'icon', icon: <Twitter /> }
+    // { url: "/blog", text: nav('blog') },
+    // { url: "/page/about", text: nav('about') },
+    // { url: "/page/changelog", text: nav('changelog') },
+    // { url: "https://twitter.com/hackathonweekly", text: "Twitter", type: 'icon', icon: <Twitter /> }
   ];
   
   return (

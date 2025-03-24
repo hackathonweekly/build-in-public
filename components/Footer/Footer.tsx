@@ -3,7 +3,7 @@
 import { Logo } from '@/components/Logo/Logo';
 import { Newsletter } from "@/components/Newsletter/Newsletter"
 import { useTranslations } from 'next-intl';
-import { Github, Facebook, Globe } from 'lucide-react';
+import { Github, Facebook, Globe, MessageCircle } from 'lucide-react';
 import { ExternalLink } from '@/components/Links/ExternalLink';
 
 export function Footer() {
@@ -22,6 +22,9 @@ export function Footer() {
         return <Facebook />;
       case 'Website':
         return <Globe />;
+      case '微信':
+      case 'WeChat':
+        return <MessageCircle />;
       default:
         return <Globe />;
     }

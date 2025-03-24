@@ -74,6 +74,9 @@ export default async function RootLayout({
   return (
     <html lang={lang} suppressHydrationWarning>
       <head>
+        <title>HackathonWeekly - Build In Public</title>
+        <link rel="icon" href="/images/favicon.ico" sizes="any" />
+        <link rel="icon" href="/images/icon-purple.png" type="image/png" />
         <meta httpEquiv="Cache-Control" content="no-store, must-revalidate" />
         <meta httpEquiv="Pragma" content="no-cache" />
         <meta httpEquiv="Expires" content="0" />

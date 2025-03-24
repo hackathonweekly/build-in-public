@@ -1,124 +1,120 @@
 {
   "Hero": {
-    "title": "使用 Nextify 轻松创建您理想的文档网站",
-    "getStarted": "开始使用",
-    "github": "GitHub"
+    "title": "Build In Public - 21天独立开发者挑战",
+    "getStarted": "立即参与",
+    "github": "了解更多"
   },
   "Work": {
-    "title": "工作原理",
-    "description": "了解 Nextify 如何简化文档创建",
+    "title": "活动流程",
+    "description": "参与我们的21天Build In Public挑战，加速你的产品开发进程",
     "steps": "3个简单步骤",
     "step1": {
-      "title": "克隆 Nextify 模板",
-      "description": "Lorem ipsum dolor sit amet, elit ut aliquam, purus sit lorem ipsum dolor sit amet"
+      "title": "设定目标",
+      "description": "为21天挑战定义你的项目目标，并与社区分享"
     },
     "step2": {
-      "title": "删除旧内容",
-      "description": "Lorem ipsum dolor sit amet, elit ut aliquam, purus sit lorem ipsum dolor sit amet"
+      "title": "每日打卡",
+      "description": "在飞书群组中通过定期打卡分享你的进展、挑战和解决方案"
     },
     "step3": {
-      "title": "开始新内容",
-      "description": "Lorem ipsum dolor sit amet, elit ut aliquam, purus sit lorem ipsum dolor sit amet"
+      "title": "获取反馈与支持",
+      "description": "从同行那里获得宝贵反馈，为你的项目增加曝光度"
     }
   },
   "FAQ": {
     "title": "常见问题",
-    "description": "查找有关 Nextify 的常见问题的答案",
+    "description": "查找关于Build In Public挑战的常见问题解答",
     "questions": [
       {
         "key": 1,
-        "question": "这个主题与市场上的其他主题有何不同？",
-        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna"
+        "question": "我需要是专业开发者才能参加吗？",
+        "answer": "不需要。只要你正在开发自己的产品或项目，无论是编程、设计、内容创作还是其他创造性工作，都欢迎参与。"
       },
       {
         "key": 2,
-        "question": "您对 Devjoy 资产分发的政策是什么？",
-        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna"
+        "question": "我的项目必须是技术产品吗？",
+        "answer": "不一定。虽然我们社区以技术产品为主，但内容产品、设计项目、创业企划等创造性项目也很欢迎。"
       },
       {
         "key": 3,
-        "question": "我如何为 Devjoy 做出贡献？",
-        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna"
+        "question": "我必须每天打卡吗？",
+        "answer": "你需要在21天内完成至少9次有效打卡才能完成挑战。更频繁的打卡通常会带来更好的效果。"
       },
       {
         "key": 4,
-        "question": "您还有哪些其他主题？",
-        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna"
+        "question": "参加活动需要付费吗？",
+        "answer": "不需要，参与完全免费。我们专注于为独立开发者建立一个支持性的社区。"
       }
     ],
-    "support": "找不到您要找的答案？请联系我们的",
-    "supportLink": "客户支持团队。"
+    "support": "找不到你想要的答案？请联系我们的",
+    "supportLink": "社区管理员。"
   },
   "Testimonial": {
-    "title": "用户评价",
-    "description": "听听使用 Nextify 的开发者怎么说"
+    "title": "参与者反馈",
+    "description": "听听完成Build In Public挑战的开发者怎么说"
   },
   "Newsletter": {
-    "title": "订阅我们的通讯",
-    "description": "及时了解 Nextify 的相关信息",
-    "placeholder": "输入您的电子邮箱",
-    "submit": "提交"
+    "title": "加入我们的社区",
+    "description": "获取周周黑客松活动和资源的最新动态。",
+    "placeholder": "输入你的邮箱",
+    "submit": "订阅"
   },
   "Footer": {
-    "description": "Phasellus a nulla in neque lacinia posuere. Etiam auctor facilisis augue vel gravida.",
+    "description": "周周黑客松是一个AI产品创造者社区，致力于帮助创新者构建MVP并找到前100个用户。",
     "solution": {
-      "title": "解决方案",
-      "marketing": "市场营销",
-      "analytics": "数据分析",
-      "commerce": "电子商务",
-      "insights": "洞察"
+      "title": "项目",
+      "marketing": "Build In Public",
+      "analytics": "黑客松",
+      "commerce": "AI工作坊",
+      "insights": "Demo日"
     },
     "support": {
       "title": "支持",
-      "pricing": "定价",
+      "pricing": "社区",
       "documentation": "文档",
       "guides": "指南",
-      "apiStatus": "API 状态"
+      "apiStatus": "资源"
     },
     "docs": {
-      "title": "文档",
-      "pricing": "定价",
-      "apiGuide": "API 指南",
-      "apiStatus": "API 状态",
+      "title": "资源",
+      "pricing": "模板",
+      "apiGuide": "学习路径",
+      "apiStatus": "工具目录",
       "devGuide": "开发指南"
     },
     "company": {
       "title": "公司",
-      "about": "关于",
+      "about": "关于我们",
       "blog": "博客",
       "jobs": "工作机会",
-      "press": "新闻",
+      "press": "媒体报道",
       "partners": "合作伙伴"
     },
     "social": [
       {
-        "name": "Github",
-        "url": "https://github.com/officialrajdeepsingh"
+        "name": "微信",
+        "url": "#"
       },
       {
-        "name": "Facebook",
-        "url": "https://www.facebook.com/officialrajdeepsingh"
-      },
-      {
-        "name": "Website",
-        "url": "https://officialrajdeepsingh.dev"
+        "name": "网站",
+        "url": "https://hackathonweekly.com"
       }
     ],
-    "copyright": "© 2021 版权所有",
+    "copyright": "© 2024 版权所有。",
     "terms": "服务条款",
-    "license": "许可协议",
+    "license": "许可证",
     "privacy": "隐私政策"
   },
   "Navigation": {
     "home": "首页",
-    "documentation": "文档",
+    "documentation": "活动",
     "blog": "博客",
     "about": "关于我们",
-    "changelog": "更新日志"
+    "changelog": "项目"
   },
   "BlogNav": {
-    "computerScience": "计算机科学",
-    "photography": "摄影",
-    "programming": "编程"
+    "computerScience": "人工智能",
+    "photography": "黑客松",
+    "programming": "开发"
   }
 } 

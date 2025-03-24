@@ -1,85 +1,85 @@
 {
   "Hero": {
-    "title": "Create your ideal documentation website effortlessly with the Nextify",
-    "getStarted": "Get Started",
-    "github": "GitHub"
+    "title": "Build In Public - 21-Day Independent Developer Challenge",
+    "getStarted": "Join Now",
+    "github": "Learn More"
   },
   "Work": {
     "title": "How it works",
-    "description": "Discover how Nextify simplifies documentation creation",
+    "description": "Join our 21-day Build In Public challenge to accelerate your product development",
     "steps": "3 EASY STEPS",
     "step1": {
-      "title": "Clone Nextify Template",
-      "description": "Lorem ipsum dolor sit amet, elit ut aliquam, purus sit lorem ipsum dolor sit amet"
+      "title": "Set Your Goals",
+      "description": "Define your project goals for the 21-day challenge and share them with the community"
     },
     "step2": {
-      "title": "Remove Old content",
-      "description": "Lorem ipsum dolor sit amet, elit ut aliquam, purus sit lorem ipsum dolor sit amet"
+      "title": "Daily Check-ins",
+      "description": "Share your progress, challenges, and solutions through regular check-ins in our Feishu group"
     },
     "step3": {
-      "title": "Start new content",
-      "description": "Lorem ipsum dolor sit amet, elit ut aliquam, purus sit lorem ipsum dolor sit amet"
+      "title": "Get Feedback & Support",
+      "description": "Receive valuable feedback from peers and gain visibility for your project"
     }
   },
   "FAQ": {
     "title": "Frequently Asked Questions",
-    "description": "Find answers to common questions about Nextify",
+    "description": "Find answers to common questions about the Build In Public challenge",
     "questions": [
       {
         "key": 1,
-        "question": "How this theme is different from others in market?",
-        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna"
+        "question": "Do I need to be a professional developer to participate?",
+        "answer": "No, anyone working on a creative project can join. Whether you're a programmer, designer, content creator, or entrepreneur - all creative builders are welcome."
       },
       {
         "key": 2,
-        "question": "What is your policy on distribution of Devjoy assets?",
-        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna"
+        "question": "Does my project need to be a tech product?",
+        "answer": "Not necessarily. While our community focuses on tech products, we welcome content products, design projects, business plans, and other creative endeavors."
       },
       {
         "key": 3,
-        "question": "How can I contribute to Devjoy?",
-        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna"
+        "question": "Do I need to check in every day?",
+        "answer": "You need at least 9 check-ins during the 21-day period to complete the challenge. More frequent check-ins typically lead to better results."
       },
       {
         "key": 4,
-        "question": "What other themes do you have?",
-        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna"
+        "question": "Is there a fee to participate?",
+        "answer": "No, participation is completely free. We focus on building a supportive community for independent developers."
       }
     ],
     "support": "Can't find the answer you're looking for? Reach out to our",
-    "supportLink": "customer support team."
+    "supportLink": "community managers."
   },
   "Testimonial": {
-    "title": "What our users say",
-    "description": "Hear from developers who use Nextify"
+    "title": "What our participants say",
+    "description": "Hear from developers who completed our Build In Public challenge"
   },
   "Newsletter": {
-    "title": "Join our newsletter",
-    "description": "Keep up to date with related Nextify.",
+    "title": "Join our community",
+    "description": "Stay updated with HackathonWeekly events and resources.",
     "placeholder": "Enter your email",
-    "submit": "Submit"
+    "submit": "Subscribe"
   },
   "Footer": {
-    "description": "Phasellus a nulla in neque lacinia posuere. Etiam auctor facilisis augue vel gravida.",
+    "description": "HackathonWeekly is an AI product creator community helping innovators build MVPs and find their first 100 users.",
     "solution": {
-      "title": "Solution",
-      "marketing": "Marketing",
-      "analytics": "Analytics",
-      "commerce": "Commerce",
-      "insights": "Insights"
+      "title": "Programs",
+      "marketing": "Build In Public",
+      "analytics": "Hackathons",
+      "commerce": "AI Workshops",
+      "insights": "Demo Days"
     },
     "support": {
       "title": "Support",
-      "pricing": "Pricing",
+      "pricing": "Community",
       "documentation": "Documentation",
       "guides": "Guides",
-      "apiStatus": "API Status"
+      "apiStatus": "Resources"
     },
     "docs": {
-      "title": "Docs",
-      "pricing": "Pricing",
-      "apiGuide": "API Guide",
-      "apiStatus": "API Status",
+      "title": "Resources",
+      "pricing": "Templates",
+      "apiGuide": "Learning Path",
+      "apiStatus": "Tool Directory",
       "devGuide": "Dev Guide"
     },
     "company": {
@@ -92,33 +92,29 @@
     },
     "social": [
       {
-        "name": "Github",
-        "url": "https://github.com/officialrajdeepsingh"
-      },
-      {
-        "name": "Facebook",
-        "url": "https://www.facebook.com/officialrajdeepsingh"
+        "name": "WeChat",
+        "url": "#"
       },
       {
         "name": "Website",
-        "url": "https://officialrajdeepsingh.dev"
+        "url": "https://hackathonweekly.com"
       }
     ],
-    "copyright": "© Copyright 2021. All rights reserved.",
+    "copyright": "© Copyright 2024. All rights reserved.",
     "terms": "Terms of Service",
     "license": "License",
     "privacy": "Privacy Policy"
   },
   "Navigation": {
     "home": "Home",
-    "documentation": "Documentation",
+    "documentation": "Activities",
     "blog": "Blog",
     "about": "About us",
-    "changelog": "Change log"
+    "changelog": "Projects"
   },
   "BlogNav": {
-    "computerScience": "Computer Science",
-    "photography": "Photography",
-    "programming": "Programming"
+    "computerScience": "AI",
+    "photography": "Hackathons",
+    "programming": "Development"
   }
 } 

@@ -7,8 +7,8 @@ import { setRequestLocale } from 'next-intl/server';
 import { locales } from '@/app/i18n';
 
 export const metadata = createMetadata({
-  title: 'Home',
-  description: 'Nextify is a prebuilt template for building documentation sites using Next.js and Fumadocs.',
+  title: 'Build In Public - 21天独立开发者挑战',
+  description: '周周黑客松举办的Build In Public活动，帮助独立开发者从0到1实现最小可行产品MVP，并找到前100个用户。',
   metadataBase: baseUrl,
 });
 
@@ -29,7 +29,7 @@ export default async function HomePage({ params }: { params: Promise<{ lang: str
       <Hero />
       <Work />
       <FAQ />
-      <Testimonial />
+      {/* <Testimonial /> */}
     </>
   );
 }
