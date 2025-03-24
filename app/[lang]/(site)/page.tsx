@@ -1,7 +1,6 @@
 import { Hero } from '@/components/Hero/Hero';
 import { Work } from '@/components/Work/Work';
 import { FAQ } from '@/components/FAQ/FAQ';
-import { Testimonial } from '@/components/Testimonial/Testimonial';
 import { baseUrl, createMetadata } from "@/utils/metadata";
 import { setRequestLocale } from 'next-intl/server';
 import { locales } from '@/app/i18n';

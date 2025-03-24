@@ -13,11 +13,6 @@ const zhCn: Partial<Translations> = {
   // Add other translations as needed
 };
 
-const zhTw: Partial<Translations> = {
-  search: '搜尋',
-  // Add other translations as needed
-};
-
 // Available languages that will be displayed on UI
 // Make sure `locale` is consistent with your i18n config
 const localeMappings = [

@@ -21,7 +21,7 @@ export function Navigation() {
     // { url: "/blog", text: nav('blog') },
     // { url: "/page/about", text: nav('about') },
     // { url: "/page/changelog", text: nav('changelog') },
-    // { url: "https://twitter.com/hackathonweekly", text: "Twitter", type: 'icon', icon: <Twitter /> }
+    { url: "https://twitter.com/hackathonweekly", text: "Twitter", type: 'icon', icon: <Twitter /> }
   ];
   
   return (
