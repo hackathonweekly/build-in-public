@@ -28,21 +28,15 @@ const localeMappings = [
   {
     name: 'Simplified Chinese',
     locale: 'zh-cn',
-  },
-  {
-    name: 'Traditional Chinese',
-    locale: 'zh-tw',
-  },
+  }
 ];
 
 type TranslationsMap = {
   'zh-cn': Partial<Translations>;
-  'zh-tw': Partial<Translations>;
 };
 
 const translationsMap: TranslationsMap = {
   'zh-cn': zhCn,
-  'zh-tw': zhTw
 };
 
 // Generate static params for all supported locales
